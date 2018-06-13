@@ -1,0 +1,21 @@
+{
+  "name": "best-marked",
+  "description": "A markdown parser built for speed",
+  "author": "yufangyang",
+  "version": "1.3.0",
+  "main": "./lib/marked.js",
+  "repository": "git://github.com/yuhonyon/best-marked.git",
+  "homepage": "https://marked.js.org",
+  "keywords": [
+    "markdown",
+    "markup",
+    "html",
+    "toc"
+  ],
+  "tags": [
+    "markdown",
+    "markup",
+    "html",
+    "toc"
+  ]
+}
